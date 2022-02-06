@@ -1,0 +1,15 @@
+---
+label: post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+  default: now
+pages:
+- content/posts/blog-it-out.md
+- content/posts/how-to-create-javascript-constant-variables.md
+- content/posts/today-is-a-beautiful-day.md

@@ -1,0 +1,53 @@
+baseURL = 'https://mhmd.vercel.app/'
+disqusShortname = 'mhmdyasr'
+languageCode = 'en-us'
+theme = "tania"
+title = 'Muhammad Yasser'
+
+[params]
+#author = "Muhammad Yasser"
+enableFootnotes = false
+maxCategoryToShow = 10
+siteDesc = "My personal blog"
+siteName = "Pride Speech"
+#titleLogo = "favicon.ico"
+
+[params.colorScheme]
+default = "dark"
+toggle = true
+
+[params.comments]
+enabled = true
+provider = "disqus"
+
+[[menu.header]]
+name = "Blog"
+url = "/posts/"
+
+[[menu.header]]
+name = "About"
+url = "/about/"
+
+[[menu.footer]]
+#name = "RSS"
+#url = "/index.xml"
+
+[markup.highlight]
+lineNos = true
+noClasses = false
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.goldmark.extensions]
+typographer = false
+
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params.socialOptions]
+#email = "roktmy@gmail.com"
+github = "https://github.com/roktcode"
+instagram = "https://instagram.com/myrokt"
+twitter = "https://twitter.com/roktmy"

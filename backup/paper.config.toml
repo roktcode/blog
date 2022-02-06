@@ -1,0 +1,15 @@
+baseURL = 'https://mhmd.vercel.app/'
+languageCode = 'en-us'
+title = 'Muhammad Yasser'
+theme = "paper"
+disqusShortname = 'mhmdyasr'
+author = 'Muhammad Yasser'
+copyright = "Muhammad Yasser 2021."
+
+paginate = 3
+
+[params]
+  disableHLJS = true                         # don't use highlight.js
+  #twitter = 'roktmy'                # twitter.com/YOUR_TWITTER_ID
+  github = 'roktcode'                  # github.com/YOUR_GITHUB_ID
+  instagram = 'myrokt'            # instagram.com/YOUR_INSTAGRAM_ID
