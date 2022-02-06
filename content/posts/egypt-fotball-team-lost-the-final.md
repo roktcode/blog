@@ -1,6 +1,5 @@
 +++
 date = 2022-02-06T22:33:23Z
-draft = true
 title = "Egypt fotball team lost the final 😭"
 
 +++
@@ -16,4 +15,6 @@ Word of the day:
 
 > Don't be weak just because someone doesn't want to see you strong
 
-Love you awesome readers!
+Love you awesome readers!  
+  
+![](/uploads/3843.jpg)
