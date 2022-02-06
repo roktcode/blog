@@ -5,10 +5,10 @@ theme = "tania"
 title = 'Muhammad Yasser'
 
 [params]
-#author = "Muhammad Yasser"
+author = "Muhammad Yasser"
 enableFootnotes = false
 maxCategoryToShow = 10
-siteDesc = "My personal blog"
+siteDesc = "Muhammad Yasser's blog"
 siteName = "Pride Speech"
 #titleLogo = "favicon.ico"
 
@@ -37,10 +37,9 @@ lineNos = true
 noClasses = false
 
 [markup.goldmark.renderer]
-unsafe = false
+unsafe = true
 
 [markup.goldmark.extensions]
-typographer = true
 
 
 [outputs]
