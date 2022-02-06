@@ -37,10 +37,10 @@ lineNos = true
 noClasses = false
 
 [markup.goldmark.renderer]
-unsafe = true
+unsafe = false
 
 [markup.goldmark.extensions]
-typographer = false
+typographer = true
 
 
 [outputs]
