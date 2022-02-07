@@ -6,7 +6,7 @@ noComments: true
 ---
 
 # Hello, I'm Muhammad!
-I am a software developer located in Egypt. Topics like religion and history seem to interest me. I enjoy analyzing or trying to analyze human behavior, I could say it's my hobby. I share here my thoughts onreligion, life and the world.
+I am a software developer located in Egypt. Topics like religion and history seem to interest me. I enjoy analyzing or trying to analyze human behavior, I could say it's my hobby. I share here my thoughts onreligion, life, and the world.
 
 ## Let me hear from you, I'm available at:
 
