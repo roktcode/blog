@@ -8,9 +8,9 @@ title = 'Muhammad Yasser'
 author = "Muhammad Yasser"
 enableFootnotes = false
 maxCategoryToShow = 10
-siteDesc = "Muhammad Yasser's blog"
-siteName = "Pride Speech"
-#titleLogo = "favicon.ico"
+siteDesc = "a Pride Speech blog"
+siteName = "Muhammad Yasser's Blog"
+titleLogo = "favicon.ico"
 
 [params.colorScheme]
 default = "dark"
