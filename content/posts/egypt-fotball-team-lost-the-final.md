@@ -1,6 +1,6 @@
 +++
 date = 2022-02-06T22:33:23Z
-title = "Egypt fotball team lost the final 😭"
+title = "Egypt football team lost the final 😭"
 
 +++
 I'm so happy that they lost, maybe Egypttians will start caring for more serious things, instead of hyping and celebrating unimportant stuff like football.
@@ -17,4 +17,4 @@ Word of the day:
 
 Love you awesome readers!  
   
-![](/uploads/3843.jpg)
+![](https://i.imgur.com/ySSvovr.jpg)
