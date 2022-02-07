@@ -21,7 +21,7 @@ enabled = true
 provider = "disqus"
 
 [[menu.header]]
-name = "Blog"
+name = "Posts"
 url = "/posts/"
 
 [[menu.header]]
