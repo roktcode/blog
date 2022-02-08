@@ -5,10 +5,10 @@ draft: false
 noComments: true
 ---
 
-# Hello, I'm Muhammad!
-I am a software developer located in Egypt. Topics like religion and history seem to interest me. I enjoy analyzing or trying to analyze human behavior, I could say it's my hobby. I share here my thoughts onreligion, life, and the world.
+# Ayeee!
+I'm a muslim, a software developer, and I like talking about religion and poilitics. I'm also interested in analyzing human behavior or trying to, I could say it's my hobby. I also like to walk....
 
-## Let me hear from you, I'm available at:
+## Let me hear from you, these are my links:
 
 - [Instagram](https://instagram.com/myrokt)
 - [GitHub](https://instagram.com/myrokt)

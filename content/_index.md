@@ -1,1 +1,1 @@
-I am a software developer located in Egypt. Topics like religion and history seem to interest me. I enjoy analyzing or trying to analyze human behavior, I could say it's my hobby. I share here my thoughts on religion, life and the world. Enjoy!
+I am a software developer located in Egypt. Topics like religion and history seem to interest me. Enjoy!
