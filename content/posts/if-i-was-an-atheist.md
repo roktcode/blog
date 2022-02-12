@@ -15,4 +15,5 @@ I don't want to say that, but the only logical behavior I see if I am an atheist
   
 Fortunately, I'm a Muslim, and that's not the case to me, or it'd have been a great mess ladies and gentlemen! Share your thoughts below...
 
-![photo-1502325966718-85a90488dc29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80](https://images.unsplash.com/photo-1502325966718-85a90488dc29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80 "photo-1502325966718-85a90488dc29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80")
+![photo-1502325966718-85a90488dc29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80](https://images.unsplash.com/photo-1502325966718-85a90488dc29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80 "photo-1502325966718-85a90488dc29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80")  
+Photo credits: [@elijahdhiett](https://unsplash.com/@elijahdhiett "https://unsplash.com/@elijahdhiett")
