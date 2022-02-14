@@ -11,6 +11,6 @@ I'm a muslim, a software developer, and I like talking about religion and poilit
 ## Let me hear from you, these are my links:
 
 - [Instagram](https://instagram.com/myrokt)
-- [GitHub](https://instagram.com/myrokt)
+- [GitHub](https://github.com/roktcode)
 - [Twitter](https://twitter.com/roktmy)
 - Discord: muhammad#7066 
