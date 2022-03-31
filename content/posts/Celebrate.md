@@ -1,6 +1,5 @@
 +++
 date = 2022-03-31T01:39:57Z
-draft = true
 title = "I got a new phone"
 
 +++
