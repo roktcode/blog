@@ -10,6 +10,7 @@ fields:
   label: date
   default: now
 pages:
+- content/posts/Celebrate.md
 - content/posts/blog-it-out.md
 - content/posts/egypt-fotball-team-lost-the-final.md
 - content/posts/how-to-create-javascript-constant-variables.md
